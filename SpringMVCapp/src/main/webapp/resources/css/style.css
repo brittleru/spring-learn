@@ -1,0 +1,26 @@
+body {
+  background-color: #999;
+}
+
+.student-content {
+  text-align:center;
+}
+.block {
+    height:600px;
+    width:auto;
+    text-align:left;
+}
+.center {
+    margin:auto;
+}
+.img-fix {
+  display:block;
+  height: 500px;
+  width: auto;
+  margin: auto;
+}
+
+.error {
+  color:red;
+  font-weight: bold;
+}
