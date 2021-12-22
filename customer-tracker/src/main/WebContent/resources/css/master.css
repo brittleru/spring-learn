@@ -1,0 +1,28 @@
+/* html, body {
+  background-color: #222;
+  color: #F8F8F8;
+} */
+
+/* td {
+  color: #F8F8F8;
+}  */
+
+th {
+  text-align: center;
+}
+
+}
+.form-content {
+  /* border: 1px solid red !important;
+  width: 640px !important;
+  margin: 0 auto !important;
+  padding: 10px !important;
+  position: relative !important; */
+}
+.navigate-back {
+  margin-top: 30px;
+}
+
+.a-no-underline:hover {
+  text-decoration: none;
+}

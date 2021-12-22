@@ -1,0 +1,10 @@
+com.example.controller.CustomerController=org.springframework.stereotype.Component
+com.example.controller.EmployeeController=org.springframework.stereotype.Component
+com.example.controller.EnterpriseController=org.springframework.stereotype.Component
+com.example.controller.IndexController=org.springframework.stereotype.Component
+com.example.entity.Customer=javax.persistence.Entity,javax.persistence.Table
+com.example.entity.Employee=javax.persistence.Entity,javax.persistence.Table
+com.example.repositories.CustomerDAOImplementation=org.springframework.stereotype.Component
+com.example.repositories.EmployeeDAOImplementation=org.springframework.stereotype.Component
+com.example.service.EnterpriseServiceImplementation=org.springframework.stereotype.Component
+com.example.test_db.TestDbServlet=javax.servlet.annotation.WebServlet
