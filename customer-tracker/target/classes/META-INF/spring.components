@@ -1,3 +1,4 @@
+com.example.aspect.CRMLoggingAspect=org.springframework.stereotype.Component
 com.example.controller.CustomerController=org.springframework.stereotype.Component
 com.example.controller.EmployeeController=org.springframework.stereotype.Component
 com.example.controller.EnterpriseController=org.springframework.stereotype.Component

@@ -25,19 +25,20 @@
   </component>
   <component name="ProjectId" id="22YZuI6jZGrXShq1XRbSELbPLLW" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/WebContent" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/WebContent/WEB-INF/lib" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2816092" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Study\Spring-Projects\Udemy\Projects\customer-tracker\src\main\WebContent\resources\css" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Study\Spring-Projects\Udemy\Projects\customer-tracker\src\main\WebContent\WEB-INF\lib" />
       <recent name="E:\Study\Spring-Projects\Udemy\Projects\customer-tracker\src\main" />
       <recent name="E:\Study\Spring-Projects\Udemy\Projects\customer-tracker\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Study\Spring-Projects\Udemy\Projects\customer-tracker\src\main\WebContent\resources\css" />
     </key>
   </component>
   <component name="RunDashboard">
