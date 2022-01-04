@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c869ce36-75e5-4abb-b9ef-3ac122668fc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-rest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-rest-client-project/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-rest-client-project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-rest-client-project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-rest-client-project/spring-rest-client-project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-rest-client-project/src/main/java/com/example/service/CustomerServiceImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-rest-client-project/src/main/java/com/example/service/CustomerServiceImplementation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-rest-project.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-rest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-rest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-rest/spring-rest.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-rest/target/classes/META-INF/spring-rest.kotlin_module" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +38,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-rest-client-project" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">

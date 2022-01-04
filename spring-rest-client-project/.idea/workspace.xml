@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b72078b-5acb-4f1e-b9bf-45366e7d0d1c" name="Default Changelist" comment="" />
+    <list default="true" id="0b72078b-5acb-4f1e-b9bf-45366e7d0d1c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-rest-client-project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/service/CustomerServiceImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/service/CustomerServiceImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-rest-project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-rest-project/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +21,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,7 +32,9 @@
     </option>
   </component>
   <component name="ProjectId" id="23DwNPvTyfTT62rSNy6dBELy1OV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
   </component>
   <component name="RunDashboard">
@@ -43,7 +54,7 @@
       <option name="adminPort" value="8006" />
       <option name="allowRunningInParallel" value="false" />
       <option name="contextPath" value="/spring-rest-client-project" />
-      <option name="docBase" value="C:\Users\a fet cate lul\Downloads\spring-security-multi-role-support\spring-rest-client-project\src\main\webapp" />
+      <option name="docBase" value="E:\Study\Spring-Projects\Udemy\Projects\For-Git\spring-rest-client-project\src\main\webapp" />
       <option name="envOptions">
         <map />
       </option>
@@ -76,5 +87,16 @@
       <updated>1641281924495</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
