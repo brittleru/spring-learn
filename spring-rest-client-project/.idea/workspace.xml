@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c869ce36-75e5-4abb-b9ef-3ac122668fc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-rest/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-rest-project.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-rest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-rest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-rest/spring-rest.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-rest/target/classes/META-INF/spring-rest.kotlin_module" beforeDir="false" />
-    </list>
+    <list default="true" id="0b72078b-5acb-4f1e-b9bf-45366e7d0d1c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,13 +11,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -35,19 +22,9 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="230Zw5OFJ4IxNmOiZiVm3Zxqep4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectId" id="23DwNPvTyfTT62rSNy6dBELy1OV" />
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\a fet cate lul\Downloads\spring-security-multi-role-support\spring-rest-project\src\main\resources" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -63,16 +40,16 @@
   </component>
   <component name="RunManager">
     <configuration name="Unnamed" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY" show_console_on_std_err="false" show_console_on_std_out="false">
-      <option name="adminPort" value="8005" />
+      <option name="adminPort" value="8006" />
       <option name="allowRunningInParallel" value="false" />
-      <option name="contextPath" value="/spring-rest-project" />
-      <option name="docBase" value="E:\Study\Spring-Projects\Udemy\Projects\For-Git\spring-rest-project\src\main\webapp" />
+      <option name="contextPath" value="/spring-rest-client-project" />
+      <option name="docBase" value="C:\Users\a fet cate lul\Downloads\spring-security-multi-role-support\spring-rest-client-project\src\main\webapp" />
       <option name="envOptions">
         <map />
       </option>
       <option name="moduleName" />
       <option name="passParentEnvironmentVariables" value="true" />
-      <option name="port" value="8080" />
+      <option name="port" value="8081" />
       <option name="tomcatInfo">
         <TomcatInfo>
           <option name="name" value="Apache Tomcat 9.0.55" />
@@ -92,23 +69,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c869ce36-75e5-4abb-b9ef-3ac122668fc5" name="Default Changelist" comment="" />
-      <created>1640873199561</created>
+      <changelist id="0b72078b-5acb-4f1e-b9bf-45366e7d0d1c" name="Default Changelist" comment="" />
+      <created>1641281924495</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1640873199561</updated>
+      <updated>1641281924495</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
