@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="web:war explored">
+    <output-path>$PROJECT_DIR$/out/artifacts/web_war_explored</output-path>
+    <root id="root">
+      <element id="module-source" name="WebCustomerTracker" />
+    </root>
+  </artifact>
+</component>
